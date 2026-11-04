@@ -1,0 +1,18 @@
+main{
+
+}
+main > article{
+    border: solid red;
+    resize: both;
+    overflow: scroll;
+
+}
+main > article{
+    display: grid;
+    place-items: center
+    ;
+}
+h1{
+    background-color: black;
+    color: white;
+}
